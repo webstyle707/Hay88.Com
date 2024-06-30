@@ -9,8 +9,6 @@
   });
 
 
-
-
   const HandleHiddenMenu = () => {
     document.getElementById("framMenu").style.width = "0";
     document.getElementById("framMenu").style.transition = "all 0.3s ease";
